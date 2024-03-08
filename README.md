@@ -1,5 +1,7 @@
 # Pranshu Shah
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+enthusiast;SDE+Intern+@Rays+TechServ)](https://git.io/typing-svg)
+
 ### Hello little ones 👋
 
 # 💫 About me:
