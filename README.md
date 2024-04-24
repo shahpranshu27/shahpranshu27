@@ -13,7 +13,7 @@ Scout with Rajya Puraskar award from former Governor of Gujarat, Shri Om Prakash
 
 Let's connect, share insights, and embark on this exciting journey of tech and personal growth together!
 
-🌱 I’m currently learning Java, ML, DSA & Spanish<br><br>🤝 I’m looking for help with ML and Data Science<br><br>💬 Ask me about Python, ML, DSA & Sarcasm<br><br>📫 Reach me at Email : shahpranshu2712@gmail.com</a> or <a href="https://www.linkedin.com/in/shahpranshu27">LinkedIn </a> ( I do reply on both of these platforms ) <br><br>⚡ Fun fact :- People say I have great sense of humour (as you can see above yourself 😁) <br><br> <b>“I speak fluent Sarcasm & Python”</b>: Because sarcasm is just another programming language, right?
+🌱 I’m currently learning Spring and Spring Boot<br><br>🤝 I’m looking for help with ML, Data Science & Spring - Spring Boot<br><br>💬 Ask me about Python, ML, DSA & Sarcasm<br><br>📫 Reach me at Email : shahpranshu2712@gmail.com or <a href="https://www.linkedin.com/in/shahpranshu27">LinkedIn </a> ( I do reply on both of these platforms ) <br><br>⚡ Fun fact :- People say I have great sense of humour (as you can see above yourself 😁) <br><br> <b>“I speak fluent Sarcasm & Python”</b>: Because sarcasm is just another programming language, right?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahpranshu27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahpranshu27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahpranshu27 )
