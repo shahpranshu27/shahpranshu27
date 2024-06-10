@@ -7,13 +7,13 @@
 # 💫 About me:
 3rd-year Computer Engineering student at LJIET with a deep-seated passion for AI/ML and Data Science. A problem-solver at heart, I thrive on the challenges each line of code presents. 
 
-Beyond the screen, you'll find me savoring a cup of tea or embracing the tranquility of yoga or you'll find me immersed in books, both fiction and non-fiction, exploring worlds of imagination. . Striving for balance, one code commit and yoga pose at a time.
+Beyond the screen, you'll find me savoring a cup of tea or embracing the tranquility of yoga or you'll find me immersed in books, both fiction and non-fiction, exploring worlds of imagination. Striving for balance, one code commit and yoga pose at a time.
 
 Scout with Rajya Puraskar award from former Governor of Gujarat, Shri Om Prakash Kohli.
 
 Let's connect, share insights, and embark on this exciting journey of tech and personal growth together!
 
-🌱 I’m currently learning Spring and Spring Boot<br><br>🤝 I’m looking for help with ML, Data Science & Spring - Spring Boot<br><br>💬 Ask me about Python, ML, DSA & Sarcasm<br><br>📫 Reach me at Email : shahpranshu2712@gmail.com or <a href="https://www.linkedin.com/in/shahpranshu27">LinkedIn </a> ( I do reply on both of these platforms ) <br><br>⚡ Fun fact :- People say I have great sense of humour (as you can see above yourself 😁) <br><br> <b>“I speak fluent Sarcasm & Python”</b>: Because sarcasm is just another programming language, right?
+🌱 I’m currently learning Machine Learning & Spring<br><br>🤝 I’m looking for help with ML, Data Science & Spring - Spring Boot<br><br>💬 Ask me about Python, ML & Sarcasm<br><br>📫 Reach me at Email : shahpranshu2712@gmail.com or <a href="https://www.linkedin.com/in/shahpranshu27">LinkedIn </a> ( I do reply on both of these platforms ) <br><br>⚡ Fun fact :- People say I have great sense of humour (as you can see above yourself 😁) <br><br> <b>“I speak fluent Sarcasm & Python”</b>: Because sarcasm is just another programming language, right?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahpranshu27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahpranshu27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahpranshu27 )
@@ -29,5 +29,3 @@ Let's connect, share insights, and embark on this exciting journey of tech and p
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shahpranshu27&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
