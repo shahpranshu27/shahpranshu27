@@ -5,7 +5,7 @@
 ### Hello little ones 👋
 
 # 💫 About me:
-3rd-year Computer Engineering student at LJIET with a deep-seated passion for AI/ML and Data Science. A problem-solver at heart, I thrive on the challenges each line of code presents. 
+4th-year Computer Engineering student at LJIET with a deep-seated passion for AI/ML and Data Science. A problem-solver at heart, I thrive on the challenges each line of code presents. 
 
 Beyond the screen, you'll find me savoring a cup of tea or embracing the tranquility of yoga or you'll find me immersed in books, both fiction and non-fiction, exploring worlds of imagination. Striving for balance, one code commit and yoga pose at a time.
 
